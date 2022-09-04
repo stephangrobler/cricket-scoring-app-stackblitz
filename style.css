@@ -1,0 +1,85 @@
+
+/* 
+body {
+  min-height: 100vh;
+  font-family: 'Lato', sans-serif;
+} */
+
+/* ul {
+  list-style: none;
+  width: 100%;
+  padding: 0 0.25rem 0.25rem;
+}
+
+ul li::before {
+  content: '\200B';
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem 0 0.5rem 0.5rem;
+  margin: 0.25rem 0;
+}
+
+.facing {
+  background-color: royalblue;
+}
+
+button {
+  padding: 0.35rem;
+  margin: 0.25rem;
+}
+
+label {
+  padding: 0 0.5rem;
+}
+
+hr,
+h4 {
+  margin: 0.5rem 0;
+}
+
+h4 {
+  padding: 0 0.25rem;
+}
+
+input {
+  padding: 0.25rem;
+}
+
+
+
+.multiplier-active {
+  background-color: royalblue;
+  border: 1px solid #333;
+  border-radius: 0.25rem;
+}
+
+.extra-active {
+  background-color: royalblue;
+  border: 1px solid #333;
+  border-radius: 0.25rem;
+}
+
+.select-runs {
+  background-color: tomato;
+  border: 1px solid #333;
+  border-radius: 0.25rem;
+} */
+
+.over-display {
+  display: flex;
+}
+
+.over-display li {
+  background-color: hsl(var(--in));
+  color: hsl(var(--inc));
+  padding: 0.25rem;
+  
+  margin: 0.25rem;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  border-radius: 0.25rem;
+}
